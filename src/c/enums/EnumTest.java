@@ -1,7 +1,7 @@
 package c.enums;
 
 public enum EnumTest {
-    DAYONG("이다용",20);
+    DAYONG("이다용",20),DOG("개",3);
 
     private final String name;
     private final int age;
